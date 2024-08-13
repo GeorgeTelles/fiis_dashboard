@@ -35,3 +35,5 @@ Este projeto é uma ferramenta desenvolvida em Python para extrair, manipular e 
   - **Dividend Yield**
   - **Liquidez Diária**
   - **Número de Cotistas**
+
+<img src="https://github.com/GeorgeTelles/fiis_dashboard/blob/63168e2421ceea154f41a26326993e1192721c3e/plot.png">
